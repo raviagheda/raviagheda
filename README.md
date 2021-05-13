@@ -6,7 +6,7 @@
   
   - 🔭 I’m currently working on freelacing projects
   - 🌱 I’m currently learning React, GraphQL and exploring ML
-  - 👯 I’m looking to collaborate on web development proojects and tools
+  - 👯 I’m looking to collaborate on web development projects and tools
   - 📫 How to reach me: Contact me on Gmail
   - ⚡ Fun fact: I love to listen music while coding! 
   
