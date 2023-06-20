@@ -4,32 +4,12 @@
 <p align='left'>
   I'm a MEAN Stack Web Developer
   
-  - 🔭 I’m currently working on freelacing projects
+  - 🔭 I’m currently working on freelance projects
   - 🌱 I’m currently learning React, GraphQL and exploring ML
   - 👯 I’m looking to collaborate on web development projects and tools
   - 📫 How to reach me: Contact me on Gmail
-  - ⚡ Fun fact: I love to listen music while coding! 
+  - ⚡ Fun fact: I love to listen to music while coding!
+  - 📖 Love to read fiction, and biography
   
 </p>
 
-## Some of my Github Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=raviagheda alt=raviagheda /> </p>
-
-[![Github stats](https://github-readme-stats.vercel.app/api?username=raviagheda&show_icons=true&include_all_commits=true)](https://github.com/raviagheda/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raviagheda&layout=compact)](https://github.com/raviagheda/github-readme-stats)
-
-
-<!--
-**raviagheda/raviagheda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
