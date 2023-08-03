@@ -1,6 +1,11 @@
 ## Hey 👋, This is Ravi Agheda
-[![Gmail Badge](https://img.shields.io/badge/-rsagheda123@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:rsagheda123@gmail.com)](mailto:rsagheda123@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-raviagheda-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/raviagheda/)](https://www.linkedin.com/in/raviagheda/) [![Github Badge](https://img.shields.io/badge/-raviagheda-grey?style=flat&logo=github&logoColor=white&link=https://github.com/raviagheda/)](https://www.github.com/raviagheda/) [![Twitter Badge](https://img.shields.io/badge/-RaviAgheda-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/RaviAgheda/)](https://www.twitter.com/RaviAgheda/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://raviagheda.github.io//)](https://raviagheda.github.io//) 
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rsagheda123@gmail.com)](mailto:rsagheda123@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/raviagheda)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://raviagheda.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/RaviAgheda)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ravi_agheda/)
+
 <p align='left'>
   I'm a MEAN Stack Web Developer
   
