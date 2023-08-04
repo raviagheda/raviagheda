@@ -10,11 +10,11 @@
   I'm a MEAN Stack Web Developer
   
   - 🔭 I’m currently working on freelance projects
-  - 🌱 I’m currently learning React, GraphQL and exploring ML
-  - 👯 I’m looking to collaborate on web development projects and tools
+  - 🌱 I’m currently learning ThreeJS, and exploring ML
+  - 👯 I’m looking to collaborate on open-source web development projects and tools
   - 📫 How to reach me: Contact me on Gmail
   - ⚡ Fun fact: I love to listen to music while coding!
-  - 📖 Love to read fiction, and biography
+  - 📖 Love to read fiction and biography
   
 </p>
 
