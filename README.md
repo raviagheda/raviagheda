@@ -7,7 +7,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ravi_agheda/)
 
 <p align='left'>
-  I'm a MEAN Stack Web Developer
+  I'm a Full Stack Web Developer
   
   - 🔭 I’m currently working on freelance projects
   - 🌱 I’m currently learning ThreeJS, and exploring ML
